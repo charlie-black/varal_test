@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "510217730164",
+    "project_id": "varaltest",
+    "storage_bucket": "varaltest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510217730164:android:e0a7a203d6f5e74f027921",
+        "android_client_info": {
+          "package_name": "com.example.varal_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510217730164-bq52ef27gmurc1eak980hi04olqk5cmo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.varal_test",
+            "certificate_hash": "18e711865a75187fc1be0ff993f479d33e26ee9f"
+          }
+        },
+        {
+          "client_id": "510217730164-nd67r9vv3s1ufltecidos6p7nffpmri2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuRFvaoBGj2PAmq3Y1yEXXvncQgHhySbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510217730164-nd67r9vv3s1ufltecidos6p7nffpmri2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
